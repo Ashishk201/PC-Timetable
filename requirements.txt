@@ -2,5 +2,5 @@ Flask==2.2.5
 selenium==4.10.0
 beautifulsoup4==4.12.2
 pandas==2.0.1
-gspread==5.10.1
-google-auth==2.22.0
+gspread
+google-auth
